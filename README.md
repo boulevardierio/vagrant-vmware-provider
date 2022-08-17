@@ -1,1 +1,1 @@
-# vagrant-vmware-provider
+# vagrant-vmware-provider vmrun workaround
